@@ -1,0 +1,19 @@
+.details-btn{
+    text-transform: capitalize;
+    background: transparent;
+    font-size: 1.4rem;
+    border: 0.05rem solid rgb(42, 42, 42);
+    border-radius: 0.5rem;
+    margin:  0.2rem 0.5rem 0.2rem 0;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.details-btn:hover{
+    background: rgb(42, 42, 42);;
+    color: cornsilk;
+
+}
+.details-btn:focus{
+    outline: none;
+}
